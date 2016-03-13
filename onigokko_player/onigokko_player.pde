@@ -1,6 +1,6 @@
 int Length = 400;
-int Max_Human = 20;
-int robber = 15;
+int Max_Human = 20;  //プレイヤー以外の人数
+int robber = 15;     //逃げる人(NPC)の人数
 int startx = int(random(Length));
 int starty = int(random(Length));
 
