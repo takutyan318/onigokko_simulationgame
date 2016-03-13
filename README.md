@@ -13,4 +13,4 @@
 プレイヤーが鬼に捕まえられたらゲームオーバー
 
 （実行方法）
-Processingをダウンロードし、Processing上で実行ボタンを押す。
+Processingをダウンロードし、Processing上でonigokko_player/onigokko_player.pedを開いて実行ボタンを押す。
